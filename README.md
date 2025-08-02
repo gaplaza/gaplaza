@@ -1,4 +1,4 @@
-# Hi there, I'm gaplaza 👋
+# 👋
 
 ## About Me
 🌱 I'm experienced in:
