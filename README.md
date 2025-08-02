@@ -1,7 +1,6 @@
 # Hi there, I'm gaplaza 👋
 
 ## About Me
-🔭 I'm currently working on various projects across different tech stacks
 🌱 I'm experienced in:
 - Mobile Development (React Native/Expo, Flutter)
 - Backend Development (Node.js/Express, Spring Boot)
@@ -28,6 +27,23 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## 🔥 My Projects
+
+<a href="https://github.com/WomanTech-Samantha/AIW-FE">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=WomanTech-Samantha&repo=AIW-FE&theme=radical" />
+</a>
+
+<a href="https://github.com/WomanTech-Samantha/AIW-BE">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=WomanTech-Samantha&repo=AIW-BE&theme=radical" />
+</a>
+
+<a href="https://github.com/CodeItBoost3/CodeItBoost3_BE">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=CodeItBoost3&repo=CodeItBoost3_BE&theme=radical" />
+</a>
 
 ## GitHub Stats
 ![gaplaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaplaza&show_icons=true&theme=radical)
