@@ -2,10 +2,10 @@
 
 ## About Me
 🌱 I'm experienced in:
-- Mobile Development (React Native/Expo, Flutter)
 - Backend Development (Node.js/Express, Spring Boot)
 - Frontend Development (React, Vite)
 - AI/ML (Python)
+- Mobile Development (React Native/Expo, Flutter)
 
 ## Tech Stack
 ### Languages
